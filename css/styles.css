@@ -116,19 +116,19 @@ a:visited {
 }
 
 .sickle-img {
-  width: 25%;
+  width: 20%;
   float: left;
   margin: 5px 15px;
 }
 
 .brain-img {
-  width: 25%;
+  width: 20%;
   float: right;
   margin: 5px 15px;
 }
 
 .mail-img {
-  width: 25%;
+  width: 20%;
   margin: auto;
   display: block;
 }
